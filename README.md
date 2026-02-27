@@ -1,8 +1,8 @@
 # MoedPoint-Furnirure
-```mermaid
-graph TD
+
 MoedPoint is bast one of asian Store of Furniture that we use syari'ah Payment
 import React from 'react';
+
 import { Card, CardContent, CardHeader, CardTitle, CardDescription, CardFooter } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
